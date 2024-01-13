@@ -7,10 +7,16 @@ To remove a local branch in Git, you can use the following command:
 ```bash
 git branch -d branch_name
 ```
-### Removing a Local Branch
+### Removing a Remote Branch
 
-To remove a local branch in Git, you can use the following command:
+To remove a Remote branch in Git, you can use the following command:
 
 ```bash
 git push origin :branch_name
+```
+## Listing Tags
 
+To list all the tags in your Git repository, you can use the following command:
+
+```bash
+git tag
