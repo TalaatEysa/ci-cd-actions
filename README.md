@@ -1,4 +1,4 @@
-# git checkout dir
+# #git checkout dir
 # git branch -d dir
 
 
